@@ -1,4 +1,6 @@
 AI Web Scraper & Formatter
+
+
 This repository contains an interactive, AI-powered web scraping and formatting tool. The tool uses Selenium and BeautifulSoup to scrape and clean website content, and it leverages ReaderLM‑v2 (a 1.5B parameter language model from Jina AI) to convert raw HTML into well-formatted Markdown (or JSON) output, as well as to generate concise summaries of the content. An interactive Streamlit interface ties everything together for easy usage.
 
 Features
