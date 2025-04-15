@@ -46,13 +46,6 @@ Ensure that ChromeDriver is installed and available in your project directory or
 GPU (Optional):
 While the model will work on CPU, it is recommended to use a GPU for faster generation.
 
-Installation
-Clone the repository:
-
-bash
-Copy
-git clone https://github.com/yourusername/ai-web-scraper-formatter.git
-cd ai-web-scraper-formatter
 Install the required dependencies:
 
 bash
